@@ -1,0 +1,8 @@
+{
+   "stone" : {
+      "blockshape" : "scaffolding"
+   },
+   "dirt" : {
+      "blockshape" : "scaffolding"
+   }
+}

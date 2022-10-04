@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "X-Ray...Ish",
+        "description": "BlokShapes changes so they can be seen through",
+        "version": [1, 0, 0],
+        "uuid": "0188bf36-2015-2017-1983-beefef34ef89",
+		"min_engine_version": [1, 15, 0]
+    },
+    "modules": [
+        {
+            "version": [1, 0, 0],
+            "type": "resources",
+            "uuid": "b9f5faaf-2017-2015-1983-beefc30a04f9"
+        }
+    ]
+}
